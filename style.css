@@ -1,0 +1,92 @@
+
+.h5:hover {
+color: red;
+}
+button{
+    background-color: white;
+    width: 75px;
+    height: 40px;
+    border-radius: 20px;
+}
+.grey{
+    background-color: grey;
+    border-radius: 10px;
+    color: brown;
+    text-align: center;
+
+}
+.div{
+justify-content: space-around;
+    background-color: grey;
+    align-items: center;
+    display: flex;
+}
+h4{
+    display: flex;
+justify-content: flex-start;
+gap: 50px;
+    display: inline;
+}
+
+.grey:hover{
+    background-color: red;
+    color: white;
+}
+button:focus{
+color: white;
+    background: red;
+}
+.contener{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+.boh{
+    width: 300px;
+    text-align: center;
+    height: 350px;
+    border-radius: 35px;
+    background-color: grey;
+}
+.boh>img{
+    width: 100%;
+}
+.boh:hover{
+    background-color: blue;
+    color: white;
+}
+.boh:hover button{
+    background: red;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
